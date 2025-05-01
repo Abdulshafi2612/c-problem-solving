@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1721790781 source:d:\2nd\2nd term\c++\less or equal\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

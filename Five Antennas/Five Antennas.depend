@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723143777 source:d:\2nd\2nd term\c++\five antennas\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722109403 source:d:\2nd\2nd term\c++\bonus\main.cpp
+	<iostream>
+	<vector>
+	<set>
+
